@@ -439,7 +439,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W0NJ0E-RuN4t316FadWj-125" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#006658;fontColor=light-dark(#5C5C5C,#FFFFFF);fillColor=#21C0A5;" value="Items" vertex="1">
-          <mxGeometry height="280" width="250" x="1380" y="600" as="geometry">
+          <mxGeometry height="280" width="250" x="1390" y="560" as="geometry">
             <mxRectangle height="30" width="80" x="900" y="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -545,6 +545,12 @@
         <mxCell id="W0NJ0E-RuN4t316FadWj-149" parent="W0NJ0E-RuN4t316FadWj-147" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=light-dark(#5C5C5C,#FFFFFF);fontSize=25;" value="&lt;font&gt;...&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="220" x="30" as="geometry">
             <mxRectangle height="40" width="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W0NJ0E-RuN4t316FadWj-150" edge="1" parent="1" source="W0NJ0E-RuN4t316FadWj-44" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="W0NJ0E-RuN4t316FadWj-129" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="1300" y="540" as="sourcePoint" />
+            <mxPoint x="1435" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

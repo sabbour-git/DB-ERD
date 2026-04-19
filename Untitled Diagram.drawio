@@ -203,7 +203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W0NJ0E-RuN4t316FadWj-70" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" value="Contracts" vertex="1">
-          <mxGeometry height="270" width="250" x="1400" y="370" as="geometry">
+          <mxGeometry height="270" width="250" x="1390" y="370" as="geometry">
             <mxRectangle height="30" width="80" x="900" y="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -362,7 +362,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W0NJ0E-RuN4t316FadWj-106" parent="W0NJ0E-RuN4t316FadWj-104" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;" value="project_id int NOT NULL" vertex="1">
+        <mxCell id="W0NJ0E-RuN4t316FadWj-106" parent="W0NJ0E-RuN4t316FadWj-104" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;" value="contract_id int NOT NULL" vertex="1">
           <mxGeometry height="30" width="220" x="30" as="geometry">
             <mxRectangle height="30" width="220" as="alternateBounds" />
           </mxGeometry>
@@ -436,6 +436,12 @@
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <mxPoint x="820" y="180" as="sourcePoint" />
             <mxPoint x="925" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W0NJ0E-RuN4t316FadWj-124" edge="1" parent="1" source="W0NJ0E-RuN4t316FadWj-77" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" target="W0NJ0E-RuN4t316FadWj-104" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="1530" y="250" as="sourcePoint" />
+            <mxPoint x="1625" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

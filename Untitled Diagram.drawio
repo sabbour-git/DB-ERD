@@ -202,7 +202,7 @@
             <mxPoint x="880" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W0NJ0E-RuN4t316FadWj-70" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" value="Contracts" vertex="1">
+        <mxCell id="W0NJ0E-RuN4t316FadWj-70" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#006658;fontColor=light-dark(#5C5C5C,#FFFFFF);fillColor=#21C0A5;" value="Contracts" vertex="1">
           <mxGeometry height="270" width="250" x="1390" y="370" as="geometry">
             <mxRectangle height="30" width="80" x="900" y="140" as="alternateBounds" />
           </mxGeometry>
@@ -369,7 +369,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W0NJ0E-RuN4t316FadWj-109" parent="W0NJ0E-RuN4t316FadWj-107" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;" value="contract_name char(50) NOT NULL" vertex="1">
+        <mxCell id="W0NJ0E-RuN4t316FadWj-109" parent="W0NJ0E-RuN4t316FadWj-107" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;" value="proposal_name char(50) NOT NULL" vertex="1">
           <mxGeometry height="30" width="220" x="30" as="geometry">
             <mxRectangle height="30" width="220" as="alternateBounds" />
           </mxGeometry>
@@ -382,7 +382,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W0NJ0E-RuN4t316FadWj-112" parent="W0NJ0E-RuN4t316FadWj-110" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;" value="contract_type char(20)" vertex="1">
+        <mxCell id="W0NJ0E-RuN4t316FadWj-112" parent="W0NJ0E-RuN4t316FadWj-110" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;" value="lead_channel char(20) NOT NULL" vertex="1">
           <mxGeometry height="30" width="220" x="30" as="geometry">
             <mxRectangle height="30" width="220" as="alternateBounds" />
           </mxGeometry>
@@ -395,7 +395,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W0NJ0E-RuN4t316FadWj-115" parent="W0NJ0E-RuN4t316FadWj-113" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;" value="contracted_date date" vertex="1">
+        <mxCell id="W0NJ0E-RuN4t316FadWj-115" parent="W0NJ0E-RuN4t316FadWj-113" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;" value="&amp;nbsp;proposal_status char(20) NOT NULL" vertex="1">
           <mxGeometry height="30" width="220" x="30" as="geometry">
             <mxRectangle height="30" width="220" as="alternateBounds" />
           </mxGeometry>

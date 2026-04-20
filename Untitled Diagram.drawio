@@ -438,7 +438,7 @@
             <mxPoint x="1625" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W0NJ0E-RuN4t316FadWj-125" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#006658;fontColor=light-dark(#5C5C5C,#FFFFFF);fillColor=#21C0A5;" value="Items" vertex="1">
+        <mxCell id="W0NJ0E-RuN4t316FadWj-125" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#006658;fontColor=light-dark(#5C5C5C,#FFFFFF);fillColor=#21C0A5;" value="Expenses_Items" vertex="1">
           <mxGeometry height="280" width="250" x="1430" y="350" as="geometry">
             <mxRectangle height="30" width="80" x="900" y="140" as="alternateBounds" />
           </mxGeometry>

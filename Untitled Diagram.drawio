@@ -203,7 +203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W0NJ0E-RuN4t316FadWj-70" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#006658;fontColor=light-dark(#5C5C5C,#FFFFFF);fillColor=#21C0A5;" value="Contracts" vertex="1">
-          <mxGeometry height="270" width="250" x="1420" y="60" as="geometry">
+          <mxGeometry height="270" width="250" x="1400" y="80" as="geometry">
             <mxRectangle height="30" width="80" x="900" y="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -439,7 +439,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W0NJ0E-RuN4t316FadWj-125" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#006658;fontColor=light-dark(#5C5C5C,#FFFFFF);fillColor=#21C0A5;" value="Expenses_Items" vertex="1">
-          <mxGeometry height="280" width="250" x="1760" y="240" as="geometry">
+          <mxGeometry height="280" width="250" x="1770" y="280" as="geometry">
             <mxRectangle height="30" width="80" x="900" y="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -554,7 +554,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SmsmwfxE7mKZIuEThu15-1" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#006658;fontColor=light-dark(#5C5C5C,#FFFFFF);fillColor=#21C0A5;" value="Invoices_Collection" vertex="1">
-          <mxGeometry height="280" width="250" x="1410" y="660" as="geometry">
+          <mxGeometry height="280" width="250" x="1400" y="670" as="geometry">
             <mxRectangle height="30" width="80" x="900" y="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -669,7 +669,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SmsmwfxE7mKZIuEThu15-27" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#006658;fontColor=light-dark(#5C5C5C,#FFFFFF);fillColor=#21C0A5;" value="Detailed_Expenses" vertex="1">
-          <mxGeometry height="320" width="250" x="1760" y="550" as="geometry">
+          <mxGeometry height="320" width="250" x="1770" y="580" as="geometry">
             <mxRectangle height="30" width="80" x="900" y="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
